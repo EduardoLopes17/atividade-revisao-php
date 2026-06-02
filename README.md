@@ -10,18 +10,8 @@ HTML
 XAMPP 
 
 # Estrutura de arquivos
-text
-├── index.php                
-├── styles/
-│   └── style.css            
-├── infra/
-│   ├── db/
-│   │   ├── connect.php      
-│   │   └── script.sql       
-├── public/
-│   ├── home.php             
-│   ├── logout.php           
-│   └── components/          
+<img width="360" height="408" alt="image" src="https://github.com/user-attachments/assets/d9ff3363-f6d2-4d5d-9c7f-6ba0ae337453" />
+
 
 # Como funciona
 1. Login: O usuário digita os dados e o PHP confere no banco se estão certos. Se estiverem, o sistema cria uma sessão para permitir o acesso.
