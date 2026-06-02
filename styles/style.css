@@ -1,0 +1,30 @@
+/* estilização da navbar*/
+nav{
+    
+    /* Deixa tudo flexivel um ao dalo do outro*/
+    display: flex;
+
+    /* Cor da navbar*/
+    background-color: rgb(31, 31, 189);
+
+    /* Cor do texto*/
+    color: azure;
+
+    /* Centraliza tudo*/
+    justify-content: center;
+
+    /* alinha tudo*/
+    align-items: center;
+}
+/* estilização do body*/
+body{
+
+    /* deixa sem margin a aba toda*/
+    margin: 0;
+
+    /* deixa sem o espaçamento da pagina*/
+    padding: 0;
+
+    /* Muda a fonte da pagina*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
